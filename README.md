@@ -2,9 +2,9 @@
 <!-- Put dark.svg and light.svg in the same repo, e.g. in an /assets folder -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img alt="Shivam Yadav – developer profile" src="./assets/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamyadav55243/shivamyadav55243/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamyadav55243/shivamyadav55243/main/light.svg">
+  <img alt="Shivam Yadav" src="https://raw.githubusercontent.com/shivamyadav55243/shivamyadav55243/main/dark.svg" width="100%">
 </picture>
 
 <p align="center">
